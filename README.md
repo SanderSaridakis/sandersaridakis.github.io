@@ -1,4 +1,4 @@
 # Hello World
 ## Greetings!
 
-Check out my favorite [website](www.netflix.com)
+Check out my favorite [website](https://www.netflix.com)
